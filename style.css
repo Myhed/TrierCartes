@@ -5,9 +5,68 @@
     background:tomato;
     padding:5px 10px;
 }
-.carte {
-    height: 350px;
+
+.carte{
+    height: 360px;
     width:250px;
-    background:green;
     display: inline-block;
+    border:1px solid #fff;
 }
+/*CARREAUX*/
+.roi_carreaux{
+    background:url('img/roi_carreau.png');
+    background-size:cover;
+}
+.dame_carreaux{
+    background:url('img/dame_carreau.png');
+    background-size:cover;
+}
+.valet_carreaux{
+    background:url('img/valet_carreau.png');
+    background-size:cover;
+}
+
+/*TREFLE*/
+.roi_trefle{
+    background:url('img/roi_trefle.png');
+    background-size:cover;
+}
+.dame_trefle{
+    background:url('img/dame_trefle.png');
+    background-size:cover;
+}
+.valet_trefle{
+    background:url('img/valet_trefle.png');
+    background-size:cover;
+}
+
+/*COEUR*/
+.roi_coeur{
+    background:url('img/roi_coeur.png');
+    background-size:cover;
+}
+.dame_coeur{
+    background:url('img/dame_coeur.png');
+    background-size:cover;
+}
+.valet_coeur{
+    background:url('img/valet_coeur.png');
+    background-size:cover;
+}
+
+/*PIQUE*/
+.roi_pique{
+    background:url('img/roi_pique.png');
+    background-size:cover;
+}
+.dame_pique{
+    background:url('img/dame_pique.png');
+    background-size:cover;
+}
+.valet_pique{
+    background:url('img/valet_pique.png');
+    background-size:cover;
+}
+
+
+.display-off{display:none;}
