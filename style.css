@@ -1,0 +1,13 @@
+.plateform{
+    margin:0 auto;
+    width:980px;
+    margin-top:75px;
+    background:tomato;
+    padding:5px 10px;
+}
+.carte {
+    height: 350px;
+    width:250px;
+    background:green;
+    display: inline-block;
+}
